@@ -1,0 +1,12 @@
+{
+    "name": "forge/public",
+    "authors": [
+        {
+            "name": "Stephen Curtin",
+            "email": "stephencurtin@hotmail.com"
+        }
+    ],
+    "require": {
+	"mysportsfeeds/mysportsfeeds-php":">=0.1.0"
+	}
+}
